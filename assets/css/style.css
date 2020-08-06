@@ -1,3 +1,4 @@
+/******* Page Reset, Default Styles *******/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,6 +10,8 @@ body {
     font-size: 16px;
 }
 
+
+/******* Header Styling *******/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +49,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/******* Main-Body Styling *******/
 
 .hero {
     height: 800px;
@@ -90,6 +95,8 @@ a {
     max-height: 200px;
 }
 
+/******* Aside Styling *******/
+
 .benefits {
     margin-top: 20px;
     margin-right: 20px;
@@ -118,6 +125,8 @@ a {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/******* Footer Styling *******/
 
 footer {
     padding: 30px;
