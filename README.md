@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a simple website for the Horiseon Marketing Agency. Before making changes, the website did not meet accessibility standards. It also did not work well on mobile devices. Since Horiseon is targeting some mobile users it is essential their website works on mobile devices. This project was completed using HTML and CSS, also a small part of JavaScript to make the mobile menu and exit button work. 
+This is a simple website for the fictional Horiseon Marketing Agency. Before making changes, the website did not meet accessibility standards. It also did not work well on mobile devices. Since Horiseon is targeting some mobile users it is essential their website works on mobile devices. I updated their code base, simplified the CSS stylesheet, and added in the code for a responsive user experience on mobile devices. This project was completed using HTML and CSS, also a small part of JavaScript to make the mobile menu and exit button work. 
 
 ## Credits
 
